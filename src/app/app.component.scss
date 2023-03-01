@@ -1,0 +1,10 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.flex-child {
+    max-width: 30%;
+    padding: 20px;
+}
